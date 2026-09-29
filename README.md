@@ -21,5 +21,11 @@ Build foundational and applied cybersecurity skills through hands-on tasks — f
 - [ ] Week 3 — SOC & Threat Detection
 - [ ] Week 4 — Cybersecurity Capstone
 
+## 🏆 External Credentials
+- [x] Forage - Cybersecurity (Mastercard) — see `External_Credentials/`
+- [ ] Tata - Cybersecurity Analyst
+- [ ] IBM SkillsBuild / Infosys Springboard
+- [ ] Cisco / AWS Educate
+
 ## 📌 Note
 This repository documents original coursework completed as part of the Skill Set Go EduTech Cybersecurity internship (Learn. Build. Prove.).
