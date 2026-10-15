@@ -17,13 +17,13 @@ Build foundational and applied cybersecurity skills through hands-on tasks — f
 
 ## ✅ Progress
 - [x] Week 1 — Security Foundations
-- [ ] Week 2 — Ethical Hacking & Web Security
-- [ ] Week 3 — SOC & Threat Detection
-- [ ] Week 4 — Cybersecurity Capstone
+- [x] Week 2 — Ethical Hacking & Web Security
+- [x] Week 3 — SOC & Threat Detection
+- [x] Week 4 — Cybersecurity Capstone
 
 ## 🏆 External Credentials
 - [x] Forage - Cybersecurity (Mastercard) — see `External_Credentials/`
-- [ ] Tata - Cybersecurity Analyst
+- [ ] Tata - Cybersecurity Analyst 
 - [ ] IBM SkillsBuild / Infosys Springboard
 - [ ] Cisco / AWS Educate
 
